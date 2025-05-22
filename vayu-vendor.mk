@@ -290,8 +290,6 @@ PRODUCT_PACKAGES += \
     libcamxstatscore \
     libcamxswprocessalgo \
     libcamxtintlessalgo \
-    libcapiv2svacnn \
-    libcapiv2vop \
     libcom.qti.chinodeutils \
     libcvface_api \
     libdualcam_optical_zoom_control \
